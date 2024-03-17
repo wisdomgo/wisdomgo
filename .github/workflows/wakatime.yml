@@ -16,7 +16,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           # 时间线
           SHOW_LOC_CHART: False
-          LOCALE: "zh_CN"
+          LOCALE: "zh_Hans"
           COMMIT_MESSAGE: "自动更新README统计数据"
           SHOW_UPDATED_DATE: True
           UPDATED_DATE_FORMAT: "%Y年%m月%d日 %H时%M分%S秒"
@@ -24,3 +24,5 @@ jobs:
           SHOW_TOTAL_CODE_TIME: True
           SHOW_PROFILE_VIEWS: True
           SHOW_PROJECTS: False
+          COMMIT_USERNAME: "wisdomgo"
+          COMMIT_EMAIL: "1246045735@qq.com"
