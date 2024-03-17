@@ -16,3 +16,11 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           # 时间线
           SHOW_LOC_CHART: False
+          LOCALE: "zh_CN"
+          COMMIT_MESSAGE: "自动更新README统计数据"
+          SHOW_UPDATED_DATE: True
+          UPDATED_DATE_FORMAT: "%Y年%m月%d日 %H时%M分%S秒"
+          SHOW_LINES_OF_CODE: True
+          SHOW_TOTAL_CODE_TIME: True
+          SHOW_PROFILE_VIEWS: True
+          SHOW_PROJECTS: False
