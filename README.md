@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning CSE
 - 🤔 I'm looking for answers to the living universe and everything
 - 💬 Ask me about Django and Rust
-- 📫 How to reach me:1246045735@qq.com
+- 📫 How to reach me:wisdomgo@163.com
 
 当你点进了我的主页，或许你愿意和我一起欣赏一首海子的诗歌。
 
