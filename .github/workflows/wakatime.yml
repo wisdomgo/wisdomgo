@@ -22,7 +22,7 @@ jobs:
           UPDATED_DATE_FORMAT: "%Y年%m月%d日 %H时%M分%S秒"
           SHOW_LINES_OF_CODE: True
           SHOW_TOTAL_CODE_TIME: True
-          SHOW_PROFILE_VIEWS: True
+          SHOW_PROFILE_VIEWS: False
           SHOW_PROJECTS: False
           COMMIT_USERNAME: "wisdomgo"
           COMMIT_EMAIL: "1246045735@qq.com"
