@@ -53,13 +53,15 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wisdomgo&hide=contribs,stars&theme=synthwave)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-497%20hrs%203%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-3.61%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
 **🐱 我的 GitHub 数据** 
 
 > 📦  使用了 659.9 kB GitHub 存储空间 
  > 
-> 🏆 202 个贡献，在 2026 年
+> 🏆 203 个贡献，在 2026 年
  > 
 > 🚫 不开放招聘
  > 
@@ -67,6 +69,42 @@
  > 
 > 🔑 1 个私人仓库 
  > 
+**我是夜猫 🦉** 
+
+```text
+🌞 早晨                     8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+🌆 白天                     65 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+🌃 傍晚                     127 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+🌙 晚上                     983 commits         █████████████████████░░░░   83.09 % 
+```
+📅 **星期五 时的我最有干劲** 
+
+```text
+星期一                      152 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+星期二                      178 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+星期三                      161 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+星期四                      172 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+星期五                      192 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+星期六                      148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+星期日                      180 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+```
+
+
+📊 **本周消耗时间** 
+
+```text
+🕑︎ 时区: Asia/Shanghai
+
+💬 编程语言: 
+本周没有记录到任何活动
+
+🔥 编辑器: 
+本周没有记录到任何活动
+
+💻 操作系统: 
+本周没有记录到任何活动
+```
+
 **我最常使用 Python** 
 
 ```text
@@ -80,5 +118,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2026年07月24日 19时54分26秒 UTC
+ Last Updated on 2026年07月25日 19时41分51秒 UTC
 <!--END_SECTION:waka-->
