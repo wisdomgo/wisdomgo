@@ -63,7 +63,7 @@
 
 > 📦  使用了 659.9 kB GitHub 存储空间 
  > 
-> 🏆 216 个贡献，在 2026 年
+> 🏆 217 个贡献，在 2026 年
  > 
 > 🚫 不开放招聘
  > 
@@ -76,19 +76,19 @@
 ```text
 🌞 早晨                     9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 🌆 白天                     65 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-🌃 傍晚                     127 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-🌙 晚上                     995 commits         █████████████████████░░░░   83.19 % 
+🌃 傍晚                     127 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+🌙 晚上                     996 commits         █████████████████████░░░░   83.21 % 
 ```
 📅 **星期五 时的我最有干劲** 
 
 ```text
-星期一                      154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-星期二                      179 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-星期三                      163 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-星期四                      174 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-星期五                      194 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-星期六                      150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-星期日                      182 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+星期一                      154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+星期二                      179 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+星期三                      163 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+星期四                      174 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+星期五                      194 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+星期六                      150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+星期日                      183 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
 ```
 
 
@@ -98,19 +98,33 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-本周没有记录到任何活动
+Other                    12 mins             █████████████████████████   100.00 % 
 
 🔥 编辑器: 
-本周没有记录到任何活动
+Cursor                   12 mins             █████████████████████████   100.00 % 
 
 💻 操作系统: 
-本周没有记录到任何活动
+Windows                  12 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 12 mins (100.0%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 6 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 93 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **我最常使用 Python** 
@@ -126,5 +140,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2026年08月08日 19时08分02秒 UTC
+ Last Updated on 2026年08月09日 19时11分06秒 UTC
 <!--END_SECTION:waka-->
